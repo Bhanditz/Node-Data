@@ -94,7 +94,7 @@
     "reflect-metadata": "0.1.3",
     "request": "2.69.0",
     "sequelize": "3.23.5",
-    "socket.io": "2.0.4",
+    "socket.io": "3.0.0",
     "stack-trace": "0.0.10",
     "tslint": "3.6.0",
     "typescript": "2.2.1",
