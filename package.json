@@ -75,7 +75,7 @@
     "express": "4.16.2",
     "express-jwt": "5.3.0",
     "express-session": "1.15.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.0",
     "jsonwebtoken": "8.1",
     "linq": "3.0.9",
     "mongodb": "https://github.com/Anujarya300/node-mongodb-native/tarball/2.2",
@@ -96,7 +96,7 @@
     "sequelize": "3.23.5",
     "socket.io": "2.0.4",
     "stack-trace": "0.0.10",
-    "tslint": "3.6.0",
+    "tslint": "3.7.2",
     "typescript": "2.2.1",
     "uuid": "3.1.0",
     "winston": "2.2.0"
